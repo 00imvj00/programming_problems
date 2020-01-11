@@ -55,7 +55,6 @@ func MapSubArraySum(input []int, sum int) {
 		current += input[i]
 		if current == sum {
 			log.Printf("Found Sub-Array: %d, %d\n", 0, i)
-			current = 0
 			continue
 		}
 
