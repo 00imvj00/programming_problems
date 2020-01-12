@@ -23,3 +23,9 @@ Some of tricky programming problems and solutions.
   - OutPut:
     - [-3,-1,0,4]
     - [0]
+
+### Problem3
+
+- Given an unsorted binary array, Sort it in linear time and constant space.
+  - Input: [1,0,1,0,1,0,0,1]
+  - OutPut: [0,0,0,0,1,1,1,1]
