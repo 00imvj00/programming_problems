@@ -29,3 +29,10 @@ Some of tricky programming problems and solutions.
 - Given an unsorted binary array, Sort it in linear time and constant space.
   - Input: [1,0,1,0,1,0,0,1]
   - OutPut: [0,0,0,0,1,1,1,1]
+
+### Problem4
+
+- Given an unsorted array, find total occurence count.
+
+  - Input: [1,2,4,7,2,3,6,3,4,5,7,3,3,4,5]
+  - OutPut: {1: 1, 2: 2, 3: 4, 4: 3, 7: 2,6: 1, 5: 2}
