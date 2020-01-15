@@ -36,3 +36,9 @@ Some of tricky programming problems and solutions.
 
   - Input: [1,2,4,7,2,3,6,3,4,5,7,3,3,4,5]
   - OutPut: {1: 1, 2: 2, 3: 4, 4: 3, 7: 2,6: 1, 5: 2}
+
+### Problem5
+
+- Given an array of integers, find largest sub-array formed by consecutive integers. The sub-array should contain all the distinct values.
+  - Input: [2,1,2,1,4,3,1,0]
+  - OutPut: [0,2,1,4,3]

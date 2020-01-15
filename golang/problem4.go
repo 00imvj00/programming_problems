@@ -18,6 +18,7 @@ import "log"
 
 	Simple !!!
 */
+
 // FindOccurences ...
 func FindOccurences(input []int) {
 	m := make(map[int]int, 0)
