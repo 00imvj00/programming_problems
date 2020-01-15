@@ -49,7 +49,7 @@ Some of tricky programming problems and solutions.
   - Input: [0,0,1,0,1,0,0]
   - Output: [0,1,0,1]
 
-### Problem7 (Impl Pending)
+### Problem7
 
 - Given an array containing only 0s, 1s and 2s, Sort this array in linear time O(n) with constant space O(1).
 - Fun fact, This is also known as **_Dutch National Flag Problem_**.
